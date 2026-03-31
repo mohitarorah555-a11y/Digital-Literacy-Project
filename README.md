@@ -29,7 +29,7 @@ This repository contains my comprehensive Digital Literacy Portfolio, developed 
 * **Goal:** Demonstrate proficiency in coding practice and cloud-based teamwork tools.
 * **Coding:** Completed a beginner-level Python challenge on HackerRank.
 * **Collaboration:** Designed a 5-question Digital Literacy Awareness Quiz using Google Forms.
-* **Quiz Link:** [Insert Your Google Form Link Here]
+* **Quiz Link:** [https://docs.google.com/forms/d/1-vs4_FUGVaVi1Tbc5ORzdSDPHsseC1TMKVvogDPkzPU/edit?pli=1]
 * **Location:** `task-3-platforms/`
 
 ### 📧 Task 4: Professional Email & Etiquette (Module 4)
